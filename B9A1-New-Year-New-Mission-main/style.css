@@ -439,8 +439,8 @@ hr{
 
     .best-offer-2 {
        border: 8px solid red;
-        width: 980px;
-        height: 480px;
+        width: 1160px;
+        height: 420px;
         position: relative;
         border-radius: 50%;
         margin-right: 20rem;
@@ -448,8 +448,8 @@ hr{
     }
 
     .best-offer-2 img{
-       width: 400px;
-       margin-top: 2.1rem;
+       width: 350px;
+       margin-top: 1.7rem;
        margin-left: 1.5rem;
        text-align: center;
        position: absolute;
@@ -462,7 +462,7 @@ hr{
     }
     
     .best-offer-3 img{
-       width: 200px;
+       width: 180px;
        margin-left: 1.4rem;
        margin-top: 1.2rem;
     }
@@ -790,23 +790,24 @@ hr{
       
     }
     .best-offer-1 h2{
-       font-size: 2.4rem;
+       font-size: 2.3rem;
        
     }
    
      .best-offer-2 {
-       border: 8px solid red;
-       width: 1500px;
-        height: 310px;
+       border: 5px solid red;
+       width: 1890px;
+        height: 300px;
         position: relative;
-        margin-right: 3rem;
+        margin-right: 1rem;
         margin-top: 6rem;
       
     }
 
     .best-offer-2 img{
-       width: 250px;
-       margin-top: 1.4rem;
+       width: 230px;
+       margin-top: 1.7rem;
+       margin-left: 1rem;
        position: absolute;
     }
 
@@ -817,7 +818,7 @@ hr{
     }
     
     .best-offer-3 img{
-       width: 180px;
+       width: 140px;
        margin-left: 1.1rem;
        margin-top: 1.2rem;
     }
